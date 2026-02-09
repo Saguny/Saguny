@@ -9,5 +9,6 @@ c# • unity • python • js/ts • java
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saguny&layout=compact&hide_border=true&theme=transparent)
 
 ## views
-Views since (2026/02/09)
 ![Moe-Counter](https://count.getloli.com/get/@Saguny?theme=moebooru)
+
+Views since (2026/02/09)
